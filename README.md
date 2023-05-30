@@ -1,5 +1,3 @@
-![image](https://www.britishairways.com/assets/images/MediaHub/Media-Database/Rights-managed-RM/Aircraft/Airbus-A380/A380-cgi_870x290.jpg)
-
 # British Airways Data Science Virtual Experience Program on Forage - May 2023
 Data science virtual internship experience by British Airways through Forage!
 
